@@ -1,0 +1,18 @@
+* {
+    border: darkblue;
+}
+
+body {
+    background-color: #7593e4;
+}
+
+.selections {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 40px;
+    justify-content: center;
+    padding: 30px;
+}
